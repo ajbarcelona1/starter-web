@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AJ Barcelona ajbarcelona14@git.training @ajbarcelona14
 
 # THANKS
 
